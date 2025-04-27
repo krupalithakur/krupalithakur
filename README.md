@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB67F9&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Data+Analyst+%7C+Public+Speaker+%7C+FemTech+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB67F9&center=true&vCenter=true&width=435&lines=Building+AI+That+Thinks;Making+Data+Tell+Stories;Engineering+Compassionate+Technology;Speaking+Ideas+Into+Action;Founder+of+MenstroSync" alt="Typing SVG" />
 </h1>
 
 <p align="center">
