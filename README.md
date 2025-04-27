@@ -21,24 +21,24 @@
 <div style="flex: 1;">
 
 Ever since I can remember, I have been fascinated by how intelligence can be created, understood, and shared.  
-Whether it's a neural network making decisions or a dataset revealing hidden patterns — I've always believed **technology is a language of empowerment**.
+Whether it's a neural network making decisions or a dataset revealing hidden patterns, I've always believed **technology is a language of empowerment**.
 
 🎓 During my time at **Queen’s University Belfast**, I immersed myself in Artificial Intelligence, blending **deep learning, data engineering, and real-world innovation**.
 
-But it was never just about models or metrics —  
-It was about **teaching machines to think, feel, and collaborate** — just like humans do.
+But it was never just about models or metrics.
+It was about **teaching machines to think, feel, and collaborate** just like humans do.
 
 🔍 Along my journey:
-- 🧠 Fine-tuned LLMs (BERT, Llama3, QLoRA) for adaptive intelligence.
-- 🎥 Engineered computer vision models (YOLOv8, SAHI, SAM2) for smart detection.
+- 🧠 Fine-tuned LLMs for adaptive intelligence.
+- 🎥 Engineered computer vision models for smart detection.
 - 📚 Built RAG pipelines enabling dynamic learning and reasoning.
 - 🧹 Designed BigQuery data engineering systems managing **100M+ records**.
 - ✍️ Published groundbreaking AI research with **Springer** and **IEEE**.
 
-🌸 Founding **MenstroSync** became my proudest moment —  
+🌸 Founding **MenstroSync** became my proudest moment:
 an AI-driven FemTech platform supporting menstrual health, emotional resilience, and smart cycle prediction.
 
-🗣️ Outside of code, you’ll find me **delivering talks**, **mentoring emerging tech talent**, and **leading workshops** —  
+🗣️ Outside of code, you’ll find me **delivering talks**, **mentoring emerging tech talent**, and **leading workshops** 
 because **public speaking** lets me combine technology with storytelling, making complex ideas beautifully human.
 
 Today, my purpose is simple:  
