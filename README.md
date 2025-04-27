@@ -1,8 +1,8 @@
 ## 🌟 My Story
 
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
 
 Once upon a time, I was simply curious — curious about how machines think, how data reveals secrets, and how technology can shape the future.
 
@@ -18,9 +18,10 @@ I spent days — and many nights — crafting:
 Along the way, my passion grew —  
 not just for AI engineering, but for **making data human**, **making intelligence accessible**, and **creating technologies that empower real lives**.
 
-</td>
-<td>
-<img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="250px" alt="Elegant Swirling Lights GIF" style="vertical-align: middle; margin-left: 20px;">
-</td>
-</tr>
-</table>
+</div>
+
+<div style="margin-left: 20px;">
+  <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="220px" alt="Elegant Swirling Lights GIF">
+</div>
+
+</div>
