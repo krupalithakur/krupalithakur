@@ -87,7 +87,6 @@ Today, my purpose is simple:
 <p align="center">
   <a href="https://linkedin.com/in/krupali-thakur"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-8338EC?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:krupali0613@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://yourportfoliolink.com"><img src="https://img.shields.io/badge/Visit%20Portfolio-9D4EDD?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </p>
 
 ---
