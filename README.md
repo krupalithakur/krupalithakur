@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-purple-banner-link.png" alt="Krupali Thakur Banner" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB67F9&center=true&vCenter=true&width=435&lines=Building+AI+That+Thinks;Making+Data+Tell+Stories;Engineering+Compassionate+Technology;Speaking+Ideas+Into+Action;Founder+of+MenstroSync" alt="Typing SVG" />
 </h1>
