@@ -23,6 +23,10 @@
 
 ## 🌟 My Story
 
+<p align="right">
+  <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="250" alt="Elegant Swirling Lights GIF">
+</p>
+
 Once upon a time, I was simply curious — curious about how machines think, how data reveals secrets, and how technology can shape the future.
 
 🎓 I began this journey at Queen’s University Belfast, diving deep into Artificial Intelligence.  
@@ -78,13 +82,6 @@ not just for AI engineering, but for **making data human**, **making intelligenc
   <a href="https://linkedin.com/in/krupali-thakur"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:krupali0613@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://yourportfoliolink.com"><img src="https://img.shields.io/badge/-View%20My%20Portfolio-purple?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
-</p>
-
----
-
-<!-- Your New Cool GIF -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzMzMmM5NDJkZDhwNmtmNnJnNGpqcjQ1ODdkZXVmdW50c3l5ZXZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J13fD3Z90NSynnOnMQ/giphy.gif" width="400" alt="Cool Coding GIF">
 </p>
 
 ---
