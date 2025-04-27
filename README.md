@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/krupali-thakur"><img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:krupali0613@gmail.com"><img src="https://img.shields.io/badge/Gmail-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://yourportfoliolink.com"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </p>
 
 ---
