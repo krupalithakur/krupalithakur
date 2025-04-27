@@ -3,70 +3,57 @@
   <img src="https://your-banner-link.com" alt="Banner" width="100%" />
 </p>
 
-# 👋 Hey there, I'm Krupali Thakur!  
-## 🚀 Building AI that thinks faster than me... and sometimes even smarter. 🤖🧠
+# Hi 👋, I'm Krupali Thakur!
+
+🚀 AI Engineer | 🤖 Multi-Agent Systems Builder | 🧠 LLM Fine-Tuner | 💖 FemTech Founder (MenstroSync)
 
 ---
 
-### 🧠 About Me
-- 🛠️ AI Engineer specialized in **Multi-Agent Systems**, **LLM Fine-Tuning**, **Computer Vision**, and **RAG Pipelines**.
-- 🎯 Currently building **AutoStartup** — an AI crew that brainstorms and launches startup ideas autonomously.
-- 🔥 Focused on Deep Learning, Retrieval Systems, and Model Optimization (because good AI should work smarter, not harder).
-- ☕ Coffee enthusiast & part-time neural network whisperer.
+### ✨ About Me
+I’m passionate about making Artificial Intelligence systems that think faster, learn smarter, and sometimes even surprise me!  
+I specialize in:
+- **Multi-Agent Systems (CrewAI, AutoGen)**
+- **LLM Fine-tuning (Llama 3B, QLoRA)**
+- **Computer Vision (YOLOv8, SAM2, SAHI)**
+- **Retrieval-Augmented Generation (RAG Pipelines)**  
+🌍 MSc Artificial Intelligence graduate from Queen’s University Belfast.
+
+I'm also building **MenstroSync** — a next-gen FemTech project focused on intelligent menstrual cycle management, integrating AI, NLP, and personalized analytics to empower young adults globally. 🌸
+
+Always curious. Always creating. Always caffeinated. ☕✨
 
 ---
 
-### 🎯 My Mission
-> **"Make AI think creatively, talk meaningfully, and sometimes even surprise me."**
+### 📌 What I'm Currently Working On:
+- 🔥 **AutoStartup**: A multi-agent AI crew that creates startup ideas autonomously.
+- 🧠 **Fine-tuning Llama3 Models** for small-scale personalization tasks.
+- 🎧 **EmoTune**: Emotion-based music recommendation system.
+- 💖 **MenstroSync**: Building the AI backend for mood tracking, period prediction, and coping suggestions.
 
 ---
 
-### 🎮 XP Board (Gamified Skill Level)
-| Skill Area | Level |
-|:---|:---|
-| 🤖 Multi-Agent Systems | Level 8 |
-| 📚 Retrieval-Augmented Generation (RAG) | Level 7 |
-| 🧠 LLM Fine-tuning (LoRA/QLoRA) | Level 7 |
-| 🎥 Computer Vision | Level 8 |
-| 🔥 Edge Deployment (YOLOv8, SAM2) | Level 7 |
+### 🛠 Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain, CrewAI  
+**Tools:** Weaviate, FAISS, ChromaDB, OpenAI API, Streamlit, Hugging Face Spaces  
+**Cloud/Data:** Google BigQuery, AWS
 
 ---
 
-### 🚀 Current Top Projects
-- **AutoStartup**: AI crew inventing startup ideas 🤖
-- **EmoTune**: Emotion-based Music Recommender 🎵
-- **WikiBot**: Smart RAG chatbot (Wikipedia knowledge search) 📚
-- **MemeMind**: Multimodal AI that generates memes 😂
+### 🌟 Fun Fact
+> I'm secretly training my AI models to write LinkedIn posts better than me. Stay tuned... 😂🤖
 
 ---
 
-### 🧰 Tech Stack
-- **Languages:** Python, SQL, JavaScript
-- **Libraries/Frameworks:** PyTorch, TensorFlow, HuggingFace, LangChain, CrewAI
-- **Vector Stores:** FAISS, ChromaDB, Weaviate
-- **Deployment:** Streamlit, HuggingFace Spaces, Docker
-- **Cloud/Data:** BigQuery, AWS, Azure
+### 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourlinkedin)
+- [Portfolio](https://yourportfoliolink.com)
+- [Email](mailto:your.email@example.com)
 
 ---
 
-### 📫 Let's Connect!
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🖥️ [Portfolio Website](https://yourportfoliolink.com)  
-- 📧 Email: your.email@example.com
-
----
-
-### 📈 GitHub Stats
+<!-- Funny Coding Meme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="My Github Stats" width="60%">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="funny-coding-gif">
 </p>
-
----
-
-<!-- Funny Self-Intro Meme GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="funny-self-intro-gif">
-</p>
-
----
 
