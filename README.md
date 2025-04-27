@@ -1,59 +1,67 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link.com" alt="Banner" width="100%" />
+  <img src="https://your-purple-banner-link.png" alt="Krupali Thakur Banner" width="100%" />
 </p>
 
-# Hi 👋, I'm Krupali Thakur!
+<h1 align="center">Hi 👋, I'm <span style="color:#9b59b6">Krupali Thakur</span>!</h1>
+<h3 align="center">🚀 AI Engineer | 🤖 Multi-Agent Systems Builder | 💖 FemTech Founder (MenstroSync)</h3>
 
-🚀 AI Engineer | 🤖 Multi-Agent Systems Builder | 🧠 LLM Fine-Tuner | 💖 FemTech Founder (MenstroSync)
-
----
-
-### ✨ About Me
-I’m passionate about making Artificial Intelligence systems that think faster, learn smarter, and sometimes even surprise me!  
-I specialize in:
-- **Multi-Agent Systems (CrewAI, AutoGen)**
-- **LLM Fine-tuning (Llama 3B, QLoRA)**
-- **Computer Vision (YOLOv8, SAM2, SAHI)**
-- **Retrieval-Augmented Generation (RAG Pipelines)**  
-🌍 MSc Artificial Intelligence graduate from Queen’s University Belfast.
-
-I'm also building **MenstroSync** — a next-gen FemTech project focused on intelligent menstrual cycle management, integrating AI, NLP, and personalized analytics to empower young adults globally. 🌸
-
-Always curious. Always creating. Always caffeinated. ☕✨
-
----
-
-### 📌 What I'm Currently Working On:
-- 🔥 **AutoStartup**: A multi-agent AI crew that creates startup ideas autonomously.
-- 🧠 **Fine-tuning Llama3 Models** for small-scale personalization tasks.
-- 🎧 **EmoTune**: Emotion-based music recommendation system.
-- 💖 **MenstroSync**: Building the AI backend for mood tracking, period prediction, and coping suggestions.
-
----
-
-### 🛠 Tech Stack
-**Languages:** Python, SQL, JavaScript  
-**Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain, CrewAI  
-**Tools:** Weaviate, FAISS, ChromaDB, OpenAI API, Streamlit, Hugging Face Spaces  
-**Cloud/Data:** Google BigQuery, AWS
-
----
-
-### 🌟 Fun Fact
-> I'm secretly training my AI models to write LinkedIn posts better than me. Stay tuned... 😂🤖
-
----
-
-### 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- [Portfolio](https://yourportfoliolink.com)
-- [Email](mailto:your.email@example.com)
-
----
-
-<!-- Funny Coding Meme -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="funny-coding-gif">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-purple?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-purple?style=flat-square&logo=gmail" /></a>
+  <a href="https://yourportfoliolink.com"><img src="https://img.shields.io/badge/Portfolio-purple?style=flat-square&logo=portfolio" /></a>
 </p>
+
+---
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Multi-Agent+Architect+%7C+FemTech+Founder+%7C+LLM+Fine-Tuner" alt="Typing SVG" />
+</p>
+
+---
+
+## ✨ About Me
+- 🛠 AI Engineer building intelligent systems with LLMs, Vision Models, and Multi-Agent Architectures.
+- 💖 Founder of **MenstroSync** — a FemTech platform for menstrual health prediction and emotional support.
+- 🤖 Creating smart multi-agent pipelines that think, reason, and collaborate.
+- 🧠 MSc in Artificial Intelligence | Queen’s University Belfast
+- 📚 Researching Retrieval-Augmented Generation (RAG) and Personalized AI.
+
+---
+
+## 🚀 Current Projects
+- 🔥 **AutoStartup**: An AI crew that brainstorms and designs startup ideas automatically.
+- 🧠 **WikiBot**: Smart chatbot powered by RAG and vector search.
+- 🎧 **EmoTune**: Emotion-based music recommender (Music + AI = ❤️)
+- 🌸 **MenstroSync**: Empowering young women with smart cycle management and AI-driven emotional insights.
+
+---
+
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,streamlit,openai,postgresql,gcp,aws,vscode,git,github" />
+</p>
+
+---
+
+## 💡 Fun Fact
+> I’m secretly training AIs to recommend better coffee shops and playlist moods. 🎶☕
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/krupali-thakur"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:krupali0613@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Funny coding meme gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="Coding GIF">
+</p>
+
+---
 
