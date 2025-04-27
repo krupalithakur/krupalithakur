@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://your-purple-banner-link.png" alt="Krupali Thakur Banner" width="100%" />
 </p>
