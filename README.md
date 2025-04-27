@@ -23,18 +23,18 @@
 
 ## 🌟 My Story
 
-Once upon a time, I was simply curious, curious about how machines think, how data reveals secrets, and how technology can shape the future.
+Once upon a time, I was simply curious — curious about how machines think, how data reveals secrets, and how technology can shape the future.
 
 🎓 I began this journey at Queen’s University Belfast, diving deep into Artificial Intelligence.  
 It wasn’t just about models or algorithms; it was about **teaching machines to think, feel, and collaborate**.
 
-I spent days and many nights crafting:
-- 🧠 Fine-tuned LLMs that could adapt to new tasks
+I spent days — and many nights — crafting:
+- 🧠 Fine-tuned LLMs that could adapt to new tasks (BERT, Llama3, QLoRA)
 - 🎥 Vision Models like YOLOv8, SAHI, and SAM2 that could detect objects faster than the human eye
 - 📚 Retrieval-Augmented Generation systems that could *learn on the fly*  
 - 💻 BigQuery-powered analytics that handled millions of records effortlessly
 
-Along the way, my passion grew:
+Along the way, my passion grew —  
 not just for AI engineering, but for **making data human**, **making intelligence accessible**, and **creating technologies that empower real lives**.
 
 ---
@@ -82,9 +82,9 @@ not just for AI engineering, but for **making data human**, **making intelligenc
 
 ---
 
-<!-- Fun ending GIF -->
+<!-- Your New Cool GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400" alt="Coding Meme GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzMzMmM5NDJkZDhwNmtmNnJnNGpqcjQ1ODdkZXVmdW50c3l5ZXZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J13fD3Z90NSynnOnMQ/giphy.gif" width="400" alt="Cool Coding GIF">
 </p>
 
 ---
