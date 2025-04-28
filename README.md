@@ -15,8 +15,8 @@
 
 <div style="flex: 1;">
 
-Ever since I can remember, I have been fascinated by how artificial intelligence can be created, understood, and shared. I loveee Computer Vision! 
-Whether it's a neural network making decisions or a dataset revealing hidden patterns, I've always believed **technology is a language of empowerment**.
+Ever since I can remember, I have been fascinated by how artificial intelligence can be created, understood, and shared. 
+Whether it's a neural network making decisions or a dataset revealing hidden patterns, I've always believed **technology is a language of empowerment** I loveee Computer Vision! .
 
 🎓 During my time at **Queen’s University Belfast**, I immersed myself in Artificial Intelligence, blending **deep learning, data engineering, and real-world innovation**.
 
