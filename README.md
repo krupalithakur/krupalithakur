@@ -49,12 +49,7 @@ Today, my purpose is simple:
 
 ---
 
-## 🚀 Building and Dreaming
-
-- 🔥 **AutoStartup** – AI agents designing real startups.
-- 🧠 **WikiBot** – A smart chatbot that thinks like a researcher.
-- 🎵 **EmoTune** – Predicting emotional landscapes through music.
-- 🌸 **MenstroSync** – FemTech wellness through the power of AI.
+## 🚀 Building and Dreaming multiple AI-led projects.
 
 ---
 
