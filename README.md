@@ -53,7 +53,7 @@ Today, my purpose is simple:
 
 ---
 
-## 🛠️ My Magic Toolbox
+## 🛠️ Tech and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,streamlit,openai,gcp,aws,bigquery,postgresql,git,github,vscode,tableau,powerbi" />
 </p>
