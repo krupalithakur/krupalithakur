@@ -63,7 +63,7 @@ Today, my purpose is simple:
 ## 🏆 Highlights That Shaped Me
 
 - ✍️ Springer and IEEE Published Researcher in AI
-- 🛰️ Optimized satellite-based AI models (ISRO Collaboration)
+- 🛰️ Optimized satellite-based AI models (Indian Space Research Organisation Collaboration)
 - 🧹 BigQuery Data Architect (100M+ records optimized pipelines)
 - 🎓 Award-winning Data Science Trainer (90%+ student satisfaction)
 - 🎤 Speaker at AI, FemTech, and Innovation events
