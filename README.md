@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB67F9&center=true&vCenter=true&width=560&lines=Building+AI+That+Thinks;Making+Data+Tell+Stories;Cellpose+vs+SAM2+—+Microscopy+Segmentation;Alan+Turing+DSG+Participant;Founder+of+MenstroSync" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB67F9&center=true&vCenter=true&width=435&lines=Building+AI+That+Thinks;Making+Data+Tell+Stories;Engineering+Compassionate+Technology;Speaking+Ideas+Into+Action;Founder+of+MenstroSync" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,16 +15,29 @@
 
 <div style="flex: 1;">
 
-I’m a postgraduate in **Artificial Intelligence at Queen’s University Belfast**, focused on **computer vision**, **responsible AI**, and **data systems** that turn research into real products.
+Ever since I can remember, I have been fascinated by how artificial intelligence can be created, understood, and shared. 
+Whether it's a neural network making decisions or a dataset revealing hidden patterns, I've always believed **technology is a language of empowerment** I loveee Computer Vision! .
 
-I care about two things: **clear, measurable impact** and **human-centred design**. You’ll find me benchmarking microscopy segmentation models one day and designing data pipelines and dashboards the next.
+🎓 During my time at **Queen’s University Belfast**, I immersed myself in Artificial Intelligence, blending **deep learning, data engineering, and real-world innovation**.
 
-Highlights of what I do:
-- 🧠 Fine-tune LLMs and build RAG systems that explain their answers.
-- 🎥 Benchmark **Cellpose vs SAM2** on real microscopy datasets.
-- 🧹 Engineer **BigQuery** pipelines (100M+ rows) and ship stakeholder-ready analytics.
-- ✍️ Publish with **Springer** and **IEEE**.
-- 🌸 Build **MenstroSync → FemSentinel**, an AI FemTech assistant.
+But it was never just about models or metrics.
+It was about **teaching machines to think, feel, and collaborate** just like humans do.
+
+🔍 Along my journey:
+- 🧠 Fine-tuned LLMs for adaptive intelligence.
+- 🎥 Engineered computer vision models for smart detection.
+- 📚 Built RAG pipelines enabling dynamic learning and reasoning.
+- 🧹 Designed BigQuery data engineering systems managing **100M+ records**.
+- ✍️ Published groundbreaking AI research with **Springer** and **IEEE**.
+
+🌸 Founding **MenstroSync** became my proudest moment:
+an AI-driven FemTech platform supporting menstrual health, emotional resilience, and smart cycle prediction.
+
+🗣️ Outside of code, you’ll find me **delivering talks**, **mentoring emerging tech talent**, and **leading workshops** 
+because **public speaking** lets me combine technology with storytelling, making complex ideas beautifully human.
+
+Today, my purpose is simple:  
+> **Make AI more human, make data more compassionate, and inspire change through innovation.**
 
 </div>
 
@@ -36,71 +49,38 @@ Highlights of what I do:
 
 ---
 
-## 🚀 What I’m Working on (Sept–Oct 2025)
-
-- **Dissertation: Microscopy Segmentation** — *“Challenging Cellpose with SAM2”* on LIVECell/BioImage Archive; baseline evaluations → robustness/fairness checks → ablations and final write-up.
-- **EMEEN / EMEENjobs.com (Volunteer)** — AI + data stack: Wix forms + CRM integration, central data model and dashboards, partner onboarding page, job aggregation pilot, and a lightweight chatbot MVP.
-- **COPD Readmission Risk (Healthcare ML)** — Random Forest + SHAP; model calibration and fairness audits; simulated federated learning with three virtual sites.
-- **ExplainMate 2.0** — Neurodivergent-friendly science explainer (Gradio/HF Spaces): colour-coded keywords, analogy mode, and optional audio.
-- **Alan Turing Institute — Data Study Group (Sep 2025)** — Completing pre-work and collaborating on the sprint challenge with a focus on reproducible ML and robust evaluation.
+## 🚀 Building and Dreaming multiple AI-led projects.
 
 ---
 
 ## 🛠️ Tech and Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,streamlit,postgres,git,github,vscode,gcp,aws,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,streamlit,openai,gcp,aws,bigquery,postgresql,git,github,vscode,tableau,powerbi" />
 </p>
 
-**Also use:** XGBoost • SHAP • Fairlearn/AIF360 • DVC • Airflow • Hugging Face • LangChain • BigQuery
-
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights That Shaped Me
 
-- **Alan Turing Institute** — Data Study Group participant (Sep 2025 cohort).
-- **Springer & IEEE** — Published author in AI; experience presenting research and building applied prototypes.
-- 🛰️ Optimised satellite-vision models (collaboration within the Indian Space Research ecosystem).
-- 🧹 Built **BigQuery** pipelines across **100M+** records with cost-aware SQL and reproducible analytics.
-- 🎤 Talks & mentoring across **Responsible AI**, **FemTech**, and data-to-product workflows.
-- 🎓 Award-winning instructor with >90% learner satisfaction.
-
----
-
-## 🤝 Community & Mentorship
-
-- **Women in AI (WAI)** — Mentor supporting teams on responsible AI, audit design, and presentation polish.
-- **First Derivatives — IMPACT Mentorship Programme** — Mentee; refining delivery, stakeholder comms, and data product thinking with industry mentors.
-
----
-
-## 🔭 Roadmap (Q4 2025)
-
-- Ship **Cellpose vs SAM2** dissertation results and defence materials.
-- **EMEEN**: launch partner onboarding flow + jobs aggregation pilot.
-- Publish **ExplainMate 2.0** demo and blog.
-- COPD project: fairness report + federated training demo with documentation.
-
----
-
-## 📚 Focus Areas
-
-- **Responsible AI**: bias audits, governance (DPIA), model cards, human-in-the-loop.
-- **Vision for Science**: segmentation benchmarking, metrics (IoU/AP), error taxonomies.
-- **Data Products**: CRISP-DM workflows, reproducible notebooks, stakeholder dashboards.
-- **NLP/GenAI**: RAG, prompt/program synthesis, evaluation harnesses.
+- ✍️ Springer and IEEE Published Researcher in AI
+- 🛰️ Optimized satellite-based AI models (Indian Space Research Organisation Collaboration)
+- 🧹 BigQuery Data Architect (100M+ records optimized pipelines)
+- 🎓 Award-winning Data Science Trainer (90%+ student satisfaction)
+- 🎤 Speaker at AI, FemTech, and Innovation events
 
 ---
 
 ## ✨ Fun Fact
 
-> Between SHAP plots and segmentation masks, I’m quietly prototyping an AI that recommends better coffee. ☕️
+> Somewhere between fine-tuning LLMs and deploying vision models...  
+> I'm secretly building an AI that recommends better coffee places. ☕✨
 
 ---
 
-## 📫 Let’s Build the Future Together
-
+## 📫 Let's Build the Future Together!
 <p align="center">
   <a href="https://linkedin.com/in/krupali-thakur"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-8338EC?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:krupali0613@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+--- 
