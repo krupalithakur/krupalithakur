@@ -30,9 +30,6 @@ It was about **teaching machines to think, feel, and collaborate** just like hum
 - 🧹 Designed BigQuery data engineering systems managing **100M+ records**.
 - ✍️ Published groundbreaking AI research with **Springer** and **IEEE**.
 
-🌸 Founding **MenstroSync** became my proudest moment:
-an AI-driven FemTech platform supporting menstrual health, emotional resilience, and smart cycle prediction.
-
 🗣️ Outside of code, you’ll find me **delivering talks**, **mentoring emerging tech talent**, and **leading workshops** 
 because **public speaking** lets me combine technology with storytelling, making complex ideas beautifully human.
 
@@ -73,7 +70,7 @@ Today, my purpose is simple:
 ## ✨ Fun Fact
 
 > Somewhere between fine-tuning LLMs and deploying vision models...  
-> I'm secretly building an AI that recommends better coffee places. ☕✨
+> I'm secretly building an AI that recommends better coffee places☕✨
 
 ---
 
